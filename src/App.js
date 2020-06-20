@@ -62,12 +62,12 @@ function App() {
           />
           <path
             id="char-0"
-            d="M81.6667 237H75V258.442H81.6667V237Z"
+            d="M81.6667 233H75V210H81.6667V233Z"
             fill="white"
           />
           <path
             id="char-1"
-            d="M81.6667 266.688H75V360.701H81.6667V266.688Z"
+            d="M81.6667 240.299H75.333V335.961H81V240.299Z"
             fill="white"
           />
           <path
@@ -97,11 +97,13 @@ function App() {
           />
         </svg>
         <h2 className="isComing">Çok Yakında... </h2>
-      </div>
-       
+      </div>           
     </Fragment>
     
   );
 }
 
 export default App;
+
+
+
