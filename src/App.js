@@ -4,6 +4,7 @@ import "./App.css";
 function App() {
   return (
     <Fragment>
+      <div className="container">     
       <div className="logo-container">
         <svg
           id="logo"
@@ -97,7 +98,8 @@ function App() {
           />
         </svg>
         <h2 className="isComing">Çok Yakında... </h2>
-      </div>           
+      </div>  
+      </div>         
     </Fragment>
     
   );
